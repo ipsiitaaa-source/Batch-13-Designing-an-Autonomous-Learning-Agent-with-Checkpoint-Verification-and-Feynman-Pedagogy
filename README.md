@@ -296,4 +296,25 @@ This repo contains 5 tutorial notebooks that build a deep research system from s
 
 Each notebook builds on the previous concepts, culminating in a production-ready deep research system that can handle complex, multi-faceted research queries with intelligent scoping and coordinated execution. 
 
+## 📸 Project Screenshots
+
+### 🔹 API Documentation
+
+![API Docs](api_docs.png)
+
+### 🔹 Assistant Creation
+
+![Assistant](assistant_created.png)
+
+### 🔹 Thread Creation
+
+![Thread](thread_created.png)
+
+### 🔹 Run Execution
+
+![Run](run_execution.png)
+
+### 🔹 Final Output (Success)
+
+![Output](output_success.png)
 
